@@ -1,0 +1,52 @@
+# Genel Bilgiler
+"filetype:pdf"
+"filetype:doc"
+"filetype:xls"
+"confidential"
+"internal use only"
+
+# Alan Adına Yönelik Aramalar
+"password"
+"login"
+"confidential"
+"sensitive"
+"internal"
+"database"
+"backup"
+"finance"
+"HR"
+
+# Email ve Kimlik Bilgileri
+"email"
+"username"
+"employee"
+"staff"
+"admin"
+"administrator"
+
+# Dosya ve Dizin Aramaları
+intitle:"index of" "parent directory"
+inurl:ftp
+inurl:sftp
+inurl:admin
+inurl:backup
+inurl:database
+inurl:config
+inurl:uploads
+
+# Diğer Alan Adları Üzerinden Aramalar
+site:drive.google.com "confidential"
+site:dropbox.com "confidential"
+site:mega.nz "confidential"
+site:mediafire.com "confidential"
+site:box.com "confidential"
+
+# Özel Arama Kombinasyonları
+"filetype:pdf"
+"filetype:xls"
+"financial report"
+"HR report"
+"project plan"
+"filename:config"
+"filename:backup"
+"filename:database" 
